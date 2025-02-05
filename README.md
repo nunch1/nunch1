@@ -59,6 +59,6 @@ console.log(me.toString());
 <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=chewieem&show_icons=true&theme=tokyonight&border_color=2284F7">
 
 <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=chewieem&theme=tokyonight&border=2284F7">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chewieem&theme=tokyonight&border=2284F7">
 
 
