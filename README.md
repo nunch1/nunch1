@@ -17,11 +17,12 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/chewieemm"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/TaKMlzZ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/vC6gVJn.png"/></a>
+  <a href="https://buymeacoffee.com/chewieem"><img width="32px" alt="Buy Me Coffee" title="Buy me a coffee" src="https://i.imgur.com/vC6gVJn.png"/></a>
 </p>
 
+
 <!-- SPOTIFY -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://chewieem.pythonanywhere.com/link">
     <img
       src="https://chewieem.pythonanywhere.com?scan=true&eq_color=2284F7&theme=dark"
