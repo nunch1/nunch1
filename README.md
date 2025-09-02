@@ -63,7 +63,7 @@ class nunchi {
     }
 }
 
-const me = new Chewie();
+const me = new nunchi();
 console.log(me.toString());
 
 
