@@ -1,13 +1,13 @@
 <!-- BANNER -->
 <p align="center">
-  <a href="https://github.com/chewieem">
-    <img src="https://i.pinimg.com/736x/f2/fb/df/f2fbdf2f24b519b78b95db400f51975e.jpg" alt="Chewie" /></a>
+  <a href="https://github.com/nunch1">
+    <img src="https://i.pinimg.com/736x/f2/fb/df/f2fbdf2f24b519b78b95db400f51975e.jpg" alt="nunchi" /></a>
 </p>
 
 <!-- PROFILE GIF -->
 <p align="center">
-  <a href="https://github.com/chewieem/chewie">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Chewie;Welcome+to+my+profile!;Front%2Fback+end+developer&font=Fira%20Code&center=true&width=440&height=45&color=2284F7&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://github.com/nunch1/nunchi">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Nunchi;Welcome+to+my+profile!;Front%2Fback+end+developer&font=Fira%20Code&center=true&width=440&height=45&color=2284F7&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@chewiemm"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/10SJUfU.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/chewieemm"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/TaKMlzZ.png"/></a>
+  <a href="https://x.com/lolnunchi"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/TaKMlzZ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://buymeacoffee.com/chewieem"><img width="32px" alt="Buy Me Coffee" title="Buy me a coffee" src="https://i.imgur.com/vC6gVJn.png"/></a>
 </p>
@@ -34,7 +34,7 @@
 
 <!-- INTRODUCING SECTIONS -->
 ```typescript
-class Chewie {
+class nunchi {
     username: string;
     name: string;
     position: string;
@@ -46,10 +46,10 @@ class Chewie {
     };
 
     constructor() {
-        this.username = "chewieem";
-        this.name = "Chewie";
+        this.username = "nunch1";
+        this.name = "nunchi";
         this.position = "Front/back end developer";
-        this.twitter = "@chewieemm";
+        this.twitter = "@lolnunchi";
 
         this.code = {
             backend: ["Lua", "TypeScript", "JavaScript", "NodeJS", "Python", "C#"],
